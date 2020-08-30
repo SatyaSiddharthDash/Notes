@@ -16,8 +16,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 code {
-	background: $theme-bg-light;
-	color: $theme-text-color-primary;
+	background: $theme-text-color-code-background;
+	color: $theme-text-color-code;
 	padding: 0.25rem 0.375rem;
 	@include border-radius(0.25rem);
 }

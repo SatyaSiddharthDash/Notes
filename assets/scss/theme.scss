@@ -5,10 +5,13 @@ $theme-color-primary: #28b76b;
 $theme-text-color-primary: #252930;
 $theme-text-color-secondary: lighten($theme-text-color-primary, 25%);
 $theme-text-color-light: lighten($theme-text-color-primary, 40%);
+$theme-text-color-code: #ff234e;
 
 $theme-bg-light: #f4fcf6;
 $theme-bg-dark: $theme-color-primary;
 $theme-bg-color: $theme-color-primary;
+
+$theme-text-color-code-background: rgba(27,31,35,0.05);
 
 $theme-border-color:  #efefef;
 $theme-divider-color: #efefef;
